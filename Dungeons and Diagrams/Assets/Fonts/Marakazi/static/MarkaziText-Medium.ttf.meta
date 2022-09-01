@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7dbc6b1254f59894f8ed0505dbbea39f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Markazi Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 422a44b87f0173c40977a626888e7c7d, type: 3}
+  - {fileID: 12800000, guid: c787e8779adacd541b4a9f1a074636c7, type: 3}
+  - {fileID: 12800000, guid: 0127c0588abb48742b6a304f964992a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
